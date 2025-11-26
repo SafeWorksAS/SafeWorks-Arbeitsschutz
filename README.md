@@ -1,4 +1,4 @@
 # SafeWorks 
-Arbeitsschutz. Praxisnah.
+# Arbeitsschutz. Praxisnah.
 
 Präsenz befindet sich im Aufbau.
